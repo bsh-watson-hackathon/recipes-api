@@ -1,4 +1,4 @@
 applications:
- - name: recipes-api
+ - name: recipe-api
    random-route: true
    memory: 256M
