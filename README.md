@@ -1,1 +1,1 @@
-# bshrecipes-api
+# recipes-api
