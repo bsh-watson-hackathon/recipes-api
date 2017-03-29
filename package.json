@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.17.1",
+    "cloudant": "^1.7.1",
     "express": "^4.15.2",
     "mongodb": "^2.2.25",
     "processenv": "^0.1.1",
