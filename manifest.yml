@@ -1,5 +1,4 @@
 applications:
  - name: recipes-api
-   command: npm start
    random-route: true
    memory: 256M
