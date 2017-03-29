@@ -1,0 +1,10 @@
+{
+    "external_services": {
+        "jamie_oliver": {
+            "url": ""
+        },
+        "yummly": {
+            "url": ""
+        }
+    }
+}
