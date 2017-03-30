@@ -8,6 +8,7 @@
     "body-parser": "^1.17.1",
     "cloudant": "^1.7.1",
     "express": "^4.15.2",
+    "lodash": "^4.17.4",
     "mongodb": "^2.2.25",
     "processenv": "^0.1.1",
     "request": "^2.81.0",
